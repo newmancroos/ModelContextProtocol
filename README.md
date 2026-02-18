@@ -27,3 +27,6 @@ MCP consist of three different important concept
 <img width="375" height="339" alt="image" src="https://github.com/user-attachments/assets/ad8c564f-6630-47dc-8438-2e39cc635f1c" />
 
 
+
+<img width="419" height="335" alt="image" src="https://github.com/user-attachments/assets/7a6f51eb-cee7-4f2f-8584-3ab4ac55e4b9" />
+
