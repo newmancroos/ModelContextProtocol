@@ -44,7 +44,7 @@ We can also call MCP server (our MCP Api) from a semantic Kernal Agent line Chat
 (https://www.youtube.com/watch?v=4pI-LxK-NwE)
 
 ## Calling MCP server from  Semantic Kernel agent in C#
-(https://www.youtube.com/watch?v=mOPEmxW82eg)
+(https://www.youtube.com/watch?v=mOPEmxW82eg) 
 
 
 
