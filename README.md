@@ -20,9 +20,9 @@ Here is where  MCP comes into place. It is a standardized translation layer allo
 
 
 MCP consist of three different important concept
-1. MCP Host
-2. MCP Client
-3. MCP Server
+1. MCP Host  (Our Application or Code)
+2. MCP Client ( Connector lives within the host and talk to indivitual MCP server) 
+3. MCP Server (Tool or data source using code C#)
 
 <img width="375" height="339" alt="image" src="https://github.com/user-attachments/assets/ad8c564f-6630-47dc-8438-2e39cc635f1c" />
 
