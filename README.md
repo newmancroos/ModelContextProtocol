@@ -41,8 +41,11 @@ It will interpret  the question into a api end-point and call the web api.
 We can also call MCP server (our MCP Api) from a semantic Kernal Agent line ChatGpt, Gemini etc.
 
 ## Build First AI Agent using Semantic Kernel in C#
+(https://www.youtube.com/watch?v=4pI-LxK-NwE)
 
 ## Calling MCP server from  Semantic Kernel agent in C#
+(https://www.youtube.com/watch?v=mOPEmxW82eg)
+
 
 
 
