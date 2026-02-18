@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"weather-mcp": {
+			"url": "http://localhost:5268",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
