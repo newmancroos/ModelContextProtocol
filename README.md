@@ -28,3 +28,22 @@ MCP consist of three different important concept
 
 <img width="419" height="335" alt="image" src="https://github.com/user-attachments/assets/7a6f51eb-cee7-4f2f-8584-3ab4ac55e4b9" />
 
+
+## Creating Host in Visual Studio Code
+
+1. press Ctrl + Shift+p and select "MCP: Add Server"
+2. Give our server api url
+3. give a name
+4. run the host and ask questions (ex. what is the weather in New york)
+
+It will interpret  the question into a api end-point and call the web api.
+
+We can also call MCP server (our MCP Api) from a semantic Kernal Agent line ChatGpt, Gemini etc.
+
+## Build First AI Agent using Semantic Kernel in C#
+
+## Calling MCP server from  Semantic Kernel agent in C#
+
+
+
+
