@@ -17,3 +17,13 @@ The [Model Context Protocol (MCP) is an open-source standard created by Anthropi
 LLM can access data from Git, databases, API and other applications but when we use multiple LLM like Gemini, GPT and Deep seek we need to  develop custom integration for each data source and each LLM, here we end up in MxN problem.
 Here is where  MCP comes into place. It is a standardized translation layer allowing LLMs to easily access from multiple data sources.
 </p>
+
+
+MCP consist of three different important concept
+1. MCP Host
+2. MCP Client
+3. MCP Server
+
+<img width="375" height="339" alt="image" src="https://github.com/user-attachments/assets/ad8c564f-6630-47dc-8438-2e39cc635f1c" />
+
+
