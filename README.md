@@ -62,9 +62,9 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
   Here, LLM is the model, Instrcution are comments that instract with the LLM and Tools are custome code or Api end-point to our api.
 </p>
 
+
 <p>
   
- 
   
 **How to Access and Use**
 
@@ -75,6 +75,7 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 -   We need modelId, end-point and Api-key to access open Ai model.
 -    https://www.youtube.com/watch?v=LLO0lOufbwc
 </p>
+
 <p>
   How to acces model play-ground and setup our model:<br/>
   https://www.youtube.com/watch?v=MB5YeEcfN_c
