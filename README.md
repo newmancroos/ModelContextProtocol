@@ -53,7 +53,10 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
   Sematic Kernel SDK allows to develop our custom AI agent. ex. Copilot is a Ai agent. We can create plugins that interface with LLM and perform all sort of tasks.
 </p>
 <p>
+  
 ### What is Agent?
+
+
 <img width="649" height="368" alt="image" src="https://github.com/user-attachments/assets/df48b617-f276-4ebb-a4f1-e28c4f9a52e1" />
 
   Here, LLM is the model, Instrcution are comments that instract with the LLM and Tools are custome code or Api end-point to our api.
