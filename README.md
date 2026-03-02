@@ -77,6 +77,12 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 </p>
 
 <p>
+What is Azure Foundry?
+
+https://www.youtube.com/watch?v=vgB1myP5lGk
+  
+</p>
+<p>
   How to acces model play-ground and setup our model:<br/>
   https://www.youtube.com/watch?v=MB5YeEcfN_c
   <br/>
