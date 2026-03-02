@@ -53,6 +53,17 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
   Sematic Kernel SDK allows to develop our custom AI agent. ex. Copilot is a Ai agent. We can create plugins that interface with LLM and perform all sort of tasks.
 </p>
 
+<p>
+  
+**How to Access and Use**
+
+-   **Access:**  Log in at oai.azure.com.
+-   **Requirements:**  Requires an active Azure subscription and a deployed Azure OpenAI service resource.
+-   **Management:**  It allows for managing deployment, API keys, and model versions.
+
+-   We need modelId, end-point and Api-key to access open Ai model.
+</p>
+
 <b>Key Capabilities of Semantic Kernel: </b><br/>
 <p>
 <b>AI Orchestration:</b> Simplifies building AI agents that can chain together multiple tasks, such as generating text, answering questions, and performing actions, often with minimal code. <br/>
