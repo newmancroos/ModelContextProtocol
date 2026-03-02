@@ -49,7 +49,8 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 
 
 <p>
-  Semantic Kernel (SK) is an open-source Software Development Kit (SDK) by Microsoft that enables developers to integrate Large Language Models (LLMs) like OpenAI and Azure OpenAI with conventional programming languages such as C#, Python, and Java. It acts as middleware to build AI agents, automate workflows, and connect AI models to external data sources.
+  Semantic Kernel (SDK) is an open-source Software Development Kit (SDK) by Microsoft that enables developers to integrate Large Language Models (LLMs) like OpenAI and Azure OpenAI with conventional programming languages such as C#, Python, and Java. It acts as middleware to build AI agents, automate workflows, and connect AI models to external data sources. <br/>
+  Sematic Kernel SDK allows to develop our custom AI agent. ex. Copilot is a Ai agent. We can create plugins that interface with LLM and perform all sort of tasks.
 </p>
 
 <b>Key Capabilities of Semantic Kernel: </b><br/>
