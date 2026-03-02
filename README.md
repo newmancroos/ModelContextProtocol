@@ -64,6 +64,9 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 -   We need modelId, end-point and Api-key to access open Ai model.
 </p>
 
+<img width="1356" height="667" alt="image" src="https://github.com/user-attachments/assets/105ff0de-87b6-43e3-924b-a0dffbd99977" />
+
+
 <b>Key Capabilities of Semantic Kernel: </b><br/>
 <p>
 <b>AI Orchestration:</b> Simplifies building AI agents that can chain together multiple tasks, such as generating text, answering questions, and performing actions, often with minimal code. <br/>
