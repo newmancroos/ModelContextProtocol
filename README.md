@@ -63,6 +63,9 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 </p>
 
 <p>
+  
+ 
+  
 **How to Access and Use**
 
 -   **Access:**  Log in at oai.azure.com.
@@ -70,8 +73,15 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 -   **Management:**  It allows for managing deployment, API keys, and model versions.
 
 -   We need modelId, end-point and Api-key to access open Ai model.
+-    https://www.youtube.com/watch?v=LLO0lOufbwc
 </p>
-
+<p>
+  How to acces model play-ground and setup our model:<br/>
+  https://www.youtube.com/watch?v=MB5YeEcfN_c
+  <br/>
+  Once we configure the model we can deploy it as webapp.
+  
+</p>
 <img width="1356" height="667" alt="image" src="https://github.com/user-attachments/assets/105ff0de-87b6-43e3-924b-a0dffbd99977" />
 
 
