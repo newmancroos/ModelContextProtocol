@@ -91,6 +91,20 @@ https://www.youtube.com/watch?v=vgB1myP5lGk
 </p>
 <img width="1356" height="667" alt="image" src="https://github.com/user-attachments/assets/105ff0de-87b6-43e3-924b-a0dffbd99977" />
 
+<p>
+## How to get Open Ai details from Azure AI foundry?
+
+Steps to retrieve the required information
+
+1.  **Get the API Key and Endpoint URL**:
+    -   Navigate to the  Azure AI Foundry portal.
+    -   Select your specific  **project**  from the project list.
+    -   In the left navigation pane, select  **Settings**, then click on  **Keys and endpoints**  or  **Manage keys**.
+    -   Copy the displayed  **API key**  (Key 1 or Key 2) and the  **Endpoint URL**. This URL will be the base URL for your API calls.
+2.  **Get the Model Name**:
+    -   Within your project in the  Azure AI Foundry portal, navigate to the  **Model Catalog**  or the specific model deployment section.
+    -   Note the exact  **model name**  or  **deployment name**  you used when deploying the model in the studio. This name is a crucial parameter for your application code.
+</p>
 
 <b>Key Capabilities of Semantic Kernel: </b><br/>
 <p>
