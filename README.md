@@ -124,6 +124,8 @@ Steps to retrieve the required information
 ## Calling MCP server from  Semantic Kernel agent in C#
 (https://www.youtube.com/watch?v=mOPEmxW82eg) 
 
+- Using Sematic Kernal application as Model Context Protocol Host and in the Host application, create Model Context Protocol Client to communicate with our Model Context Server.
+- 
 
 
 
