@@ -42,6 +42,12 @@ We can also call MCP server (our MCP Api) from a semantic Kernal Agent line Chat
 
 ## Build First AI Agent using Semantic Kernel in C#
 (https://www.youtube.com/watch?v=4pI-LxK-NwE)
+<br/>
+https://www.youtube.com/watch?v=ZIBSD8ECuiw
+
+<img width="707" height="497" alt="image" src="https://github.com/user-attachments/assets/eb2fd1f8-e481-4617-aafc-43c5583c7943" />
+
+
 <p>
   Semantic Kernel (SK) is an open-source Software Development Kit (SDK) by Microsoft that enables developers to integrate Large Language Models (LLMs) like OpenAI and Azure OpenAI with conventional programming languages such as C#, Python, and Java. It acts as middleware to build AI agents, automate workflows, and connect AI models to external data sources.
 </p>
