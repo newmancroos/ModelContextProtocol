@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=ZIBSD8ECuiw
 <p>
   
   
-**How to Access and Use**
+** How to Access and Use**
 
 -   **Access:**  Log in at oai.azure.com.
 -   **Requirements:**  Requires an active Azure subscription and a deployed Azure OpenAI service resource.
