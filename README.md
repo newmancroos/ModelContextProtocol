@@ -42,10 +42,90 @@ We can also call MCP server (our MCP Api) from a semantic Kernal Agent line Chat
 
 ## Build First AI Agent using Semantic Kernel in C#
 (https://www.youtube.com/watch?v=4pI-LxK-NwE)
+<br/>
+https://www.youtube.com/watch?v=ZIBSD8ECuiw
 
+<img width="707" height="497" alt="image" src="https://github.com/user-attachments/assets/eb2fd1f8-e481-4617-aafc-43c5583c7943" />
+
+
+<p>
+  Semantic Kernel (SDK) is an open-source Software Development Kit (SDK) by Microsoft that enables developers to integrate Large Language Models (LLMs) like OpenAI and Azure OpenAI with conventional programming languages such as C#, Python, and Java. It acts as middleware to build AI agents, automate workflows, and connect AI models to external data sources. <br/>
+  Sematic Kernel SDK allows to develop our custom AI agent. ex. Copilot is a Ai agent. We can create plugins that interface with LLM and perform all sort of tasks.
+</p>
+<p>
+  
+### What is Agent?
+
+
+<img width="649" height="368" alt="image" src="https://github.com/user-attachments/assets/df48b617-f276-4ebb-a4f1-e28c4f9a52e1" />
+
+  Here, LLM is the model, Instrcution are comments that instract with the LLM and Tools are custome code or Api end-point to our api.
+</p>
+
+
+<p>
+  
+  
+** How to Access and Use**
+
+-   **Access:**  Log in at oai.azure.com.
+-   **Requirements:**  Requires an active Azure subscription and a deployed Azure OpenAI service resource.
+-   **Management:**  It allows for managing deployment, API keys, and model versions.
+
+-   We need modelId, end-point and Api-key to access open Ai model.
+-    https://www.youtube.com/watch?v=LLO0lOufbwc
+</p>
+
+<p>
+What is Azure Foundry?
+
+https://www.youtube.com/watch?v=vgB1myP5lGk
+  
+</p>
+<p>
+  How to acces model play-ground and setup our model:<br/>
+  https://www.youtube.com/watch?v=MB5YeEcfN_c
+  <br/>
+  Once we configure the model we can deploy it as webapp.
+  
+</p>
+<img width="1356" height="667" alt="image" src="https://github.com/user-attachments/assets/105ff0de-87b6-43e3-924b-a0dffbd99977" />
+
+<p>
+## How to get Open Ai details from Azure AI foundry?
+
+Steps to retrieve the required information
+
+1.  **Get the API Key and Endpoint URL**:
+    -   Navigate to the  Azure AI Foundry portal.
+    -   Select your specific  **project**  from the project list.
+    -   In the left navigation pane, select  **Settings**, then click on  **Keys and endpoints**  or  **Manage keys**.
+    -   Copy the displayed  **API key**  (Key 1 or Key 2) and the  **Endpoint URL**. This URL will be the base URL for your API calls.
+2.  **Get the Model Name**:
+    -   Within your project in the  Azure AI Foundry portal, navigate to the  **Model Catalog**  or the specific model deployment section.
+    -   Note the exact  **model name**  or  **deployment name**  you used when deploying the model in the studio. This name is a crucial parameter for your application code.
+</p>
+
+<b>Key Capabilities of Semantic Kernel: </b><br/>
+<p>
+<b>AI Orchestration:</b> Simplifies building AI agents that can chain together multiple tasks, such as generating text, answering questions, and performing actions, often with minimal code. <br/>
+<b>Plugins & Connectors:</b> Allows integration with existing data sources, APIs, and tools, bridging the gap between LLMs and native code. <br/>
+<b>Model Agnostic:</b> Supports multiple AI services, including OpenAI, Azure OpenAI, and others. <br/>
+<b>Memory & Context:</b> Enables LLMs to access and utilize external data (Vector Search, RAG) for better, more grounded responses. <br/>
+<b>Planners:</b> Automatically generates an execution plan to fulfill user requests using available tools.
+</p>
+
+<b>Core Components</b>
+<p>
+<b>Kernel:</b> The central object that manages configuration, plugins, and connectors. <br/>
+<b>Plugins:</b> Functions that extend the capabilities of the LLM, such as calling APIs or accessing databases.<br/>
+<b>Memory:</b> Stores and retrieves relevant information to provide context to the AI.<br/>
+</p>
 ## Calling MCP server from  Semantic Kernel agent in C#
 (https://www.youtube.com/watch?v=mOPEmxW82eg) 
 
+- Using Sematic Kernal application as Model Context Protocol Host and in the Host application, create Model Context Protocol Client to communicate with our Model Context Server.
+- 
 
 
 
