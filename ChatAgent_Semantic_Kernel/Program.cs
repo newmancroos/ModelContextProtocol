@@ -7,7 +7,7 @@ using Microsoft.SemanticKernel.Connectors.OpenAI;
 
 //Populate values from your OpenAi deployment (Azure AI foundry)
 var modelId = "gpt-4o-mini";
-var endpoint = "https://api.openai.com/";
+var endpoint = "";
 var apiKey = "";
 
 //Create a kernel and add the Azure OpenAI chat completion service

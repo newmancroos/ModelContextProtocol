@@ -8,7 +8,7 @@ using ModelContextProtocol.Client;
 
 //Populate values from your OpenAi deployment (Azure AI foundry)
 var modelId = "gpt-4o"; // "gpt-4o"; // "gpt-3.5-turbo"; // "gpt-4.1"; // "gpt-4o-mini";
-var endpoint = "https://api.openai.com";
+var endpoint = "";
 var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY", EnvironmentVariableTarget.User);
 
 
