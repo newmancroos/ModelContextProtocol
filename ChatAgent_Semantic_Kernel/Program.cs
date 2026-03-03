@@ -8,9 +8,7 @@ using Microsoft.SemanticKernel.Connectors.OpenAI;
 //Populate values from your OpenAi deployment (Azure AI foundry)
 var modelId = "gpt-4o-mini";
 var endpoint = "https://api.openai.com/";
-var apiKey = "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";
-// My-Ai-Agent-Semantic // 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
-//https://platform.openai.com/api-keys
+var apiKey = "";
 
 //Create a kernel and add the Azure OpenAI chat completion service
 //Other than Chat agent there are other Agents too
