@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Server", "MCP-Server\MCP-Server\MCP-Server.csproj", "{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAgent_Semantic_Kernel", "ChatAgent_Semantic_Kernel\ChatAgent_Semantic_Kernel.csproj", "{FCDA33E1-F406-41D2-B670-5AD4617E8309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSematicKernal", "HelloSematicKernal\HelloSematicKernal.csproj", "{413F282D-6B4D-4056-BE80-8631848DCD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAgent_Semantic_Kernel_ConnectServer", "ChatAgent_Semantic_Kernel-ConnectServer\ChatAgent_Semantic_Kernel_ConnectServer.csproj", "{8D131B8F-FD38-B3AA-5716-01B8AF6245EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModelContextProtocol", "ModelContextProtocol", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDA33E1-F406-41D2-B670-5AD4617E8309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDA33E1-F406-41D2-B670-5AD4617E8309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDA33E1-F406-41D2-B670-5AD4617E8309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDA33E1-F406-41D2-B670-5AD4617E8309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413F282D-6B4D-4056-BE80-8631848DCD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413F282D-6B4D-4056-BE80-8631848DCD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413F282D-6B4D-4056-BE80-8631848DCD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413F282D-6B4D-4056-BE80-8631848DCD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D131B8F-FD38-B3AA-5716-01B8AF6245EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D131B8F-FD38-B3AA-5716-01B8AF6245EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D131B8F-FD38-B3AA-5716-01B8AF6245EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D131B8F-FD38-B3AA-5716-01B8AF6245EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38DA749C-FEA8-4EDD-BF6F-DB20DC29969D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8D131B8F-FD38-B3AA-5716-01B8AF6245EE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6DB1D32-45D6-4508-8535-ACDFD3214677}
+	EndGlobalSection
+EndGlobal

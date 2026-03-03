@@ -14,7 +14,7 @@ public class WeatherTool
         new WeatherModel { City = "Chicago", Temperature = "10°C", Condition = "Rainy" }
     };
 
-    [McpServerTool(Name = "get_weather"), Description("Get the current weather for a specified city.")]
+    [McpServerTool(Name = "get_weather_mcp"), Description("Get the current weather for a specified city.")]
     public async Task<WeatherModel?> GetWeatherAsync(string city)
     {
         // Simulate an asynchronous operation
