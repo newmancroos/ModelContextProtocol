@@ -44,6 +44,10 @@ We can also call MCP server (our MCP Api) from a semantic Kernal Agent line Chat
 (https://www.youtube.com/watch?v=4pI-LxK-NwE)
 <br/>
 https://www.youtube.com/watch?v=ZIBSD8ECuiw
+<br/>
+https://www.youtube.com/watch?v=v-HyooPh30w       --> Model Context Protocol Full video
+<br/>
+https://www.youtube.com/watch?v=IWZ5siSW8mA      --> Sematic Kernel AI Agent in WebApi calling MCP server
 
 <img width="707" height="497" alt="image" src="https://github.com/user-attachments/assets/eb2fd1f8-e481-4617-aafc-43c5583c7943" />
 
