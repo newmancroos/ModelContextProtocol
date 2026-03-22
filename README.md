@@ -8,8 +8,10 @@ The [Model Context Protocol (MCP) is an open-source standard created by Anthropi
 <p>
   Its use to securely Connects + Interact with external data, tools and systems.  It is an open-source standard created by Anthropic. **MCP is a protocol that helps us to connect Host and the servers.**. 
 
-1. Host - Claude (Where we give the input)
-2. Server - Gmail, Folders ( the place where we write functions to connect to other tools)
+1. Host - It is a client application interact with. ex, Claude, Visual Studio, VS Code or any AI tool.
+2. Client - Each MCP Client is created by the host to connect to a specific MCP server. They have one-to-one relationship that is One client talk to one server.
+3. Server - This is the program or service that gives the context or data that AI application need. Gmail, Folders ( the place where we write functions to connect to other tools), Or our own Api service
+
 </p>
 Learning Video Link : https://www.youtube.com/watch?v=4_aSQCcRtuA 
 
