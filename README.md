@@ -1,8 +1,20 @@
 # ModelContextProtocol
 
+**What is Model Context Protocol (MCP)?**
 <p>
 The [Model Context Protocol (MCP) is an open-source standard created by Anthropic that acts as a universal, secure connector between AI models (like Claude) and external tools, data sources, or local files. It acts as a standardized translation layer, allowing LLMs to easily access data from Git, Slack, databases, and other applications without custom integrations for each, essentially acting as a "USB-C" for AI
 </p>
+
+<p>
+  Its use to securely Connects + Interact with external data, tools and systems.  It is an open-source standard created by Anthropic. **MCP is a protocol that helps us to connect Host and the servers.**. 
+
+1. Host - Claude (Where we give the input)
+2. Server - Gmail, Folders ( the place where we write functions to connect to other tools)
+</p>
+
+# MCP Architecture
+
+<img width="593" height="434" alt="image" src="https://github.com/user-attachments/assets/7fe75f5b-dbdd-456c-8097-3f64ee123e77" />
 
 
 <img width="598" height="362" alt="image" src="https://github.com/user-attachments/assets/861a427c-d2ad-4213-ae29-844be166e7a0" />
