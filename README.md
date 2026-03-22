@@ -145,6 +145,21 @@ Steps to retrieve the required information
 (https://www.youtube.com/watch?v=mOPEmxW82eg) 
 
 - Using Sematic Kernal application as Model Context Protocol Host and in the Host application, create Model Context Protocol Client to communicate with our Model Context Server.
+
+
+
+What is RAG (Retrieval Augmented Generation)?
+It retrieves relevant information from trusted data.  Example, retrieve information from a document. 
+
+
+## What is AI Agent?
+AI Agent are AI systems that can:
+
+- Think
+- Decide
+- Act
+- Use Tools
+- Complete task
 - 
 
 
