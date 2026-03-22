@@ -14,6 +14,7 @@ The [Model Context Protocol (MCP) is an open-source standard created by Anthropi
 
 </p>
 Learning Video Link : https://www.youtube.com/watch?v=4_aSQCcRtuA 
+Simple Article : https://medium.com/aimonks/mcp-architecture-all-you-need-2cafe6c7d803
 
 # MCP Architecture
 
