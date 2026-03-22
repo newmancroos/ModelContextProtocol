@@ -11,6 +11,7 @@ The [Model Context Protocol (MCP) is an open-source standard created by Anthropi
 1. Host - Claude (Where we give the input)
 2. Server - Gmail, Folders ( the place where we write functions to connect to other tools)
 </p>
+Learning Video Link : https://www.youtube.com/watch?v=4_aSQCcRtuA 
 
 # MCP Architecture
 
