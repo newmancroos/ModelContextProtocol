@@ -146,7 +146,18 @@ Steps to retrieve the required information
 
 - Using Sematic Kernal application as Model Context Protocol Host and in the Host application, create Model Context Protocol Client to communicate with our Model Context Server.
 
+## What is LLM (Large Language Model)?
+<p>
+  A Large Language Model (LLM) is a type of AI designed to understand, process, and generate human-like text by analyzing massive datasets using deep learning, specifically transformer architectures. Key examples include ChatGPT, Gemini, and Claude, which are used for summarizing, translating, and content generation.
+</p>
 
+## What is SLM (Small Language Model)?
+<p>
+  Small Language Models (SLMs) are AI models with fewer parameters than LLMs, designed to be efficient, cost-effective, and capable of running on edge devices (smartphones, laptops). They are ideal for specific, specialized tasks rather than general-purpose reasoning, providing fast, localized, and private AI capabilities
+
+  * On-device AI: Running chatbots, virtual assistants, or language translators on smartphones without needing a cloud connection.
+  * Specialized Content Generation: Generating targeted marketing copy, summarizing documents, or writing code.
+</p>
 
 ### What is RAG (Retrieval Augmented Generation)?
 It retrieves relevant information from trusted data.  Example, retrieve information from a document. 
