@@ -148,9 +148,13 @@ Steps to retrieve the required information
 
 ## What is LLM (Large Language Model)?
 <p>
-  A Large Language Model (LLM) is a type of AI designed to understand, process, and generate human-like text by analyzing massive datasets using deep learning, specifically transformer architectures. Key examples include ChatGPT, Gemini, and Claude, which are used for summarizing, translating, and content generation.
+  A Large Language Model (LLM) is a type of AI designed to understand, process, and generate human-like text by analyzing massive datasets using deep learning, specifically transformer architectures. Key examples include ChatGPT, Gemini, and Claude,Llam which are used for summarizing, translating, and content generation.
 </p>
 
+<p>
+Note: Ollama is a powerful, open-source tool designed to easily run LLM including Llma3, Mistral. It runs on your locall computer.
+  
+</p>
 ## What is SLM (Small Language Model)?
 <p>
   Small Language Models (SLMs) are AI models with fewer parameters than LLMs, designed to be efficient, cost-effective, and capable of running on edge devices (smartphones, laptops). They are ideal for specific, specialized tasks rather than general-purpose reasoning, providing fast, localized, and private AI capabilities. Ex. Microsoft Phi-3.5/Phi-2, Google Gemma 2/3, Meta Llama.
