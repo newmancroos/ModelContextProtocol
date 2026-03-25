@@ -153,7 +153,7 @@ Steps to retrieve the required information
 
 ## What is SLM (Small Language Model)?
 <p>
-  Small Language Models (SLMs) are AI models with fewer parameters than LLMs, designed to be efficient, cost-effective, and capable of running on edge devices (smartphones, laptops). They are ideal for specific, specialized tasks rather than general-purpose reasoning, providing fast, localized, and private AI capabilities
+  Small Language Models (SLMs) are AI models with fewer parameters than LLMs, designed to be efficient, cost-effective, and capable of running on edge devices (smartphones, laptops). They are ideal for specific, specialized tasks rather than general-purpose reasoning, providing fast, localized, and private AI capabilities. Ex. Microsoft Phi-3.5/Phi-2, Google Gemma 2/3, Meta Llama.
 
   * On-device AI: Running chatbots, virtual assistants, or language translators on smartphones without needing a cloud connection.
   * Specialized Content Generation: Generating targeted marketing copy, summarizing documents, or writing code.
