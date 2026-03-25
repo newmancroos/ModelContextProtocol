@@ -148,7 +148,7 @@ Steps to retrieve the required information
 
 
 
-What is RAG (Retrieval Augmented Generation)?
+### What is RAG (Retrieval Augmented Generation)?
 It retrieves relevant information from trusted data.  Example, retrieve information from a document. 
 
 
@@ -160,7 +160,6 @@ AI Agent are AI systems that can:
 - Act
 - Use Tools
 - Complete task
-- 
 
 
 
