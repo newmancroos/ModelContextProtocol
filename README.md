@@ -150,7 +150,7 @@ Steps to retrieve the required information
 
 ### What is RAG (Retrieval Augmented Generation)?
 It retrieves relevant information from trusted data.  Example, retrieve information from a document. 
-
+It acts as an external search machism like Bing, browsing uploaded documentys or querying a database to find accurate, up-to-date information outside the LLM. **It then inserts this context into the prompt**, helping the LLM generate a more precise answer.
 
 ## What is AI Agent?
 AI Agent are AI systems that can:
