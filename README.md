@@ -20,6 +20,8 @@ Simple Article : https://medium.com/aimonks/mcp-architecture-all-you-need-2cafe6
 
 <img width="593" height="434" alt="image" src="https://github.com/user-attachments/assets/7fe75f5b-dbdd-456c-8097-3f64ee123e77" />
 
+<img width="569" height="700" alt="image" src="https://github.com/user-attachments/assets/ec9f5127-26e3-449e-95d1-06e4971e9b9d" />
+
 
 <img width="598" height="362" alt="image" src="https://github.com/user-attachments/assets/861a427c-d2ad-4213-ae29-844be166e7a0" />
 
