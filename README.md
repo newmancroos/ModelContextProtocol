@@ -100,6 +100,7 @@ https://www.youtube.com/watch?v=IWZ5siSW8mA      --> Sematic Kernel AI Agent in 
 
 <p>
 What is Azure Foundry?
+https://ai.azure.com
 
 https://www.youtube.com/watch?v=vgB1myP5lGk
   
