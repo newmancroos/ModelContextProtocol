@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=IWZ5siSW8mA      --> Sematic Kernel AI Agent in 
 </p>
 
 <p>
-What is Azure Foundry?
+<b>What is Azure Foundry?</b> <br/>
 https://ai.azure.com
 
 https://www.youtube.com/watch?v=vgB1myP5lGk
@@ -129,6 +129,9 @@ Steps to retrieve the required information
     -   Note the exact  **model name**  or  **deployment name**  you used when deploying the model in the studio. This name is a crucial parameter for your application code.
 </p>
 
+<b>OpenAI Platform<b><br/>
+https://platform.openai.com 
+<br/>
 <b>Key Capabilities of Semantic Kernel: </b><br/>
 <p>
 <b>AI Orchestration:</b> Simplifies building AI agents that can chain together multiple tasks, such as generating text, answering questions, and performing actions, often with minimal code. <br/>
